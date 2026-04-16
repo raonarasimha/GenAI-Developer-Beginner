@@ -1,0 +1,8 @@
+### Test GenAIChatBot FastAPI /chat endpoint
+
+POST http://localhost:8000/chat
+Content-Type: application/json
+
+{
+  "prompt": "Hello, what can you do?"
+}

@@ -1,0 +1,11 @@
+Q: What documents can I use?
+A: Any local .txt files. You can also pre-process PDFs into text.
+
+Q: How big should chunks be?
+A: 500–1000 characters with 20–30% overlap works well.
+
+Q: Which embedding model?
+A: text-embedding-3-small (fast, low cost) is fine for this exercise.
+
+Q: Which LLM model?
+A: gpt-4o-mini via the Responses API.

@@ -1,0 +1,3 @@
+Embeddings map text to vectors so similar meanings are close in vector space.
+Chunking splits documents into pieces to fit model/context constraints.
+Similarity search retrieves the most relevant chunks for a user query.

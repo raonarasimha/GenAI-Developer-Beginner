@@ -1,0 +1,3 @@
+RAG (Retrieval Artificial Generation) combines information retrieval with language generation.
+The system retrieves relevant chunks from a document store and feeds them to an LLM.
+Grounding answers in retrieved context improves accuracy and reduces hallucinations.

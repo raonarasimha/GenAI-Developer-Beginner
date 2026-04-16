@@ -1,0 +1,4 @@
+id,name,email,amount
+1,Alice Smith,alice@example.com,100.00
+2,Bob Jones,bob@example.com,250.50
+3,Carol Lee,carol@example.com,99.99

@@ -1,0 +1,17 @@
+This is a sample text file for testing the Day-14 MCP server.
+
+The Model Context Protocol (MCP) is a standard that enables AI models to:
+- Access external tools and APIs
+- Read files and databases
+- Interact with the real world through structured interfaces
+
+This implementation demonstrates:
+1. A simple MCP server that exposes file operations
+2. Integration with OpenRouter LLMs for intelligent responses
+3. Tool calling and context integration
+
+The server provides two main tools:
+- list_dir: Lists files in the assets directory
+- read_text: Reads and returns the content of text files
+
+This allows the LLM to access local file content and provide intelligent responses based on the available data.
